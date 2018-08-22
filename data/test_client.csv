@@ -1,0 +1,17 @@
+Backends|APP-HOME-CARTOES|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534100000000
+Backends|APP-HOME-CARTOES|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534200000000
+Backends|APP-HOME-CARTOES|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534300000000
+Backends|APP-HOME-CARTOES|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534400000000
+Backends|APP-CONSULTA|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534100000000
+Backends|APP-CONSULTA|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534200000000
+Backends|APP-CONSULTA|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534300000000
+Backends|APP-CONSULTA|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534400000000
+Backends|APP-TRANSACAO|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534100000000
+Backends|APP-TRANSACAO|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534200000000
+Backends|APP-TRANSACAO|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534300000000
+Backends|APP-TRANSACAO|MyTier|JavaTimer.PoolCleaner|Average Wait Time (ms);SIXTY_MIN;0;0;0;0;1;1534400000000
+
+
+Backends|Discovered backends call - API-IB - http://localhost:80|Average Wait Time (ms);
+
+
